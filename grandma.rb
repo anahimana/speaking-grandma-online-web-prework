@@ -5,7 +5,6 @@
 # unless you shout it (type in all capitals).
 def speak_to_grandman(greeting)
   if greeting == "I LOVE YOU GRANDMA!"
-    puts "Hello!"
     return "I LOVE YOU TOO PUMPKIN!"
   elsif greeting == greeting.upcase
     puts "NO, NOT SINCE 1938!"
@@ -23,6 +22,6 @@ end
 
 speak_to_grandman("HELLLOOO!".downcase)
 speak_to_grandman("HELLLOOO!".upcase)
-speak_to_grandman("I LOVE YOU GRANDMA!")
+puts speak_to_grandman("I LOVE YOU GRANDMA!")
 
 
