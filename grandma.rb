@@ -4,7 +4,7 @@
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 def speak_to_grandman(greeting)
-  if greeting == "Hey Grandma!"
+  if greeting == greeting.upcase
     puts "Hello!"
   else
     puts "HUH?! SPEAK UP, SONNY!"
