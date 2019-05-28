@@ -20,8 +20,8 @@ end
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-puts speak_to_grandman("HELLLOOO!".downcase)
-puts speak_to_grandman("HELLLOOO!".upcase)
-puts speak_to_grandman("I LOVE YOU GRANDMA!")
+puts speak_to_grandma("HELLLOOO!".downcase)
+puts speak_to_grandma("HELLLOOO!".upcase)
+puts speak_to_grandma("I LOVE YOU GRANDMA!")
 
 
