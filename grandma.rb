@@ -22,8 +22,8 @@ def speak_to_grandma(greeting)
   end
 end
 
-puts speak_to_grandma("HELLLOOO!".downcase)
-puts speak_to_grandma("HELLLOOO!".upcase)
-puts speak_to_grandma("I LOVE YOU GRANDMA!")
+# puts speak_to_grandma("HELLLOOO!".downcase)
+# puts speak_to_grandma("HELLLOOO!".upcase)
+# puts speak_to_grandma("I LOVE YOU GRANDMA!")
 
 
