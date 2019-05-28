@@ -4,9 +4,9 @@
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 def speak_to_grandman(greeting)
-  elsif greeting == "I LOVE YOU GRANDMA!"
+  if greeting == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-  if greeting == greeting.upcase
+  elsif greeting == greeting.upcase
     puts "NO, NOT SINCE 1938!"
   else
     puts "HUH?! SPEAK UP, SONNY!"
