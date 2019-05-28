@@ -6,6 +6,8 @@
 def speak_to_grandman(greeting)
   if greeting == "Hey Grandma!"
     puts "Hello!"
+  else
+    puts "HUH?! SPEAK UP, SONNY!"
   end
 end
 # If you shout, she can hear you (or at least she thinks so) 
