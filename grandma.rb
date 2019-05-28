@@ -21,4 +21,5 @@ end
 # 'I LOVE YOU TOO PUMPKIN!'
 
 speak_to_grandman("HELLLOOO!".downcase)
+speak_to_grandman("HELLLOOO!".upcase)
 
