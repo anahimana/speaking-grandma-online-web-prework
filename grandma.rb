@@ -22,6 +22,6 @@ end
 
 speak_to_grandman("HELLLOOO!".downcase)
 speak_to_grandman("HELLLOOO!".upcase)
-speak_to_grandman("I love you grandma!".upcase)
+speak_to_grandman("I LOVE YOU GRANDMA!")
 
 
