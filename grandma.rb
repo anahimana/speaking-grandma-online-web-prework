@@ -3,7 +3,7 @@
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-def speak_to_grandman(greeting.downcase)
+def speak_to_grandman(greeting)
   if greeting == greeting.upcase
     puts "NO, NOT SINCE 1938!"
   else
